@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @miabilal
 - 👀 I’m interested in Android development
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on android apps
+-  i m currently learning dart
+- - 💞️ I’m looking to collaborate on android apps
 - 📫 How to reach me .email..bilaljan99075@gamil.com
 
 <!---
