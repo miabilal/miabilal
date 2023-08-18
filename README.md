@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @miabilal
-- 👀 I’m interested in Android development
-- 🌱 I’m currently learning java
+- 👀 I’m interested in Android & Cross-Platform App development
+- 🌱 I’m currently learning Flutter💙
 - 🌱 I’m currently learning dart
-- 💞️ I’m looking to collaborate on android apps
+- 💞️ I’m looking to collaborate on Android apps
 - 📫 How to reach me .email..bilaljan99075@gamil.com
 
 <!---
