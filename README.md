@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @miabilal
 - 👀 I’m interested in Android & Cross-Platform App development
-- 🌱 I’m currently learning Flutter💙
-- 🌱 I’m currently learning dart
+- 🌱 Specalize in Flutter💙
+- 🌱 dart+java+kotlin = Meeeeeeeeeeeee🦾🧠❤💙
 - 💞️ I’m looking to collaborate on Android apps
-- 📫 How to reach me .email..bilaljan99075@gamil.com
+- 📫 How to reach me bilaljan99075@gamil.com
 
 <!---
 miabilal/miabilal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
