@@ -4,7 +4,7 @@
 - 🌱 I’m into Mobile App Development from 4 Years.
 - 💬 Ask me anything about Flutter | Swift | Java
 - 📫 How to reach me: miabilal035@gmail.com
-- ⚡ Fun fact: Flutter in Breakfast | swift For Lunch | Dinner Wiht Java
+- ⚡ Fun fact: Flutter in Breakfast | swift For Lunch | Dinner With Java
   
 ### Connect with me:
 <div id="badges">
