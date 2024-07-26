@@ -1,10 +1,10 @@
  <h1 align="center">Hi 👋, I'm Mia Bilal</h1>
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Hybrid App Dev
-- 💬 Ask me anything about Flutter 
-- 📫 How to reach me: awkumlab@gmail.com
-- ⚡ Fun fact: Flutter Make My Heart💙
+- 🔭 I’m currently working on Flutter | Swift | Java.
+- 🌱 I’m into Mobile App Development from 4 Years.
+- 💬 Ask me anything about Flutter | Swift | Java
+- 📫 How to reach me: miabilal035@gmail.com
+- ⚡ Fun fact: Flutter in Breakfast | swift For Lunch | Dinner Wiht Java
   
 ### Connect with me:
 <div id="badges">
