@@ -1,10 +1,10 @@
  <h1 align="center">Hi 👋, I'm Mia Bilal</h1>
 
-- 🔭 I’m currently working on Flutter | Swift | Java.
+- 🔭 I’m currently working on Flutter | Swift | Kotlin.
 - 🌱 I’m into Mobile App Development from 4 Years.
-- 💬 Ask me anything about Flutter | Swift | Java
+- 💬 Ask me anything about Flutter | Swift | Kotlin
 - 📫 How to reach me: miabilal035@gmail.com
-- ⚡ Fun fact: Flutter in Breakfast | swift For Lunch | Dinner With Java
+- ⚡ Fun fact: Flutter in Breakfast | swift For Lunch | Dinner With Kotlin
   
 ### Connect with me:
 <div id="badges">
