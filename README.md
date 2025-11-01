@@ -15,9 +15,9 @@
 <tr>
 <td>
 
-- 🔭 Currently working on **Flutter | Swift | Kotlin**  
-- 🌱 In Mobile App Dev for **4+ Years**  
-- 💬 Ask me anything about **Flutter, Swift, Kotlin**  
+- 🔭 Currently working on **Flutter | Swift | Kotlin | NodeJs | ExpressJS | AWS | S3 | EC2 | Lambda** 
+- 🌱 In Mobile App and Cloud for **4+ Years**  
+- 💬 Ask me anything about **Flutter, Swift, Kotlin |NodeJs |ExpressJs | AWS**  
 - 📫 Reach me: **miabilal035@gmail.com**  
 - ⚡ Fun fact: *Flutter for breakfast 🍳, Swift for lunch 🍝, Kotlin for dinner 🍲*  
 
