@@ -32,10 +32,10 @@ specialization:
   mobile:
     - Flutter (Dart)
     - React Native
-    - iOS (Swift)
-    - Android (Kotlin/Java)
+    
   backend:
     - Node.js & Express.js
+    - Python, Django ,Flask, FastApi
     - RESTful APIs
   cloud:
     - AWS (S3, EC2, Lambda)
