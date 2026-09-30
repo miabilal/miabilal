@@ -26,13 +26,9 @@
 ### 💫 **Current Focus**
 
 ```yaml
-role: Mobile App Architect & Cloud Engineer
-experience: 4+ Years of Excellence
+role: Backend Team Lead
+experience: 5+ Years of Excellence
 specialization:
-  mobile:
-    - Flutter (Dart)
-    - React Native
-    
   backend:
     - Node.js & Express.js
     - Python, Django ,Flask, FastApi
