@@ -23,7 +23,6 @@ Backend engineer with 5+ years designing, building, and operating production sys
 
 - LinkedIn: [in/mia-bilal-674688204](https://www.linkedin.com/in/mia-bilal-674688204/)
 - Email: [miabilal035@gmail.com](mailto:miabilal035@gmail.com)
-- YouTube: [Mia Bilal](https://www.youtube.com/channel/UCgAzpL0rerpoXggtvNYSvLA)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=miabilal&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats for miabilal" height="165" />
